@@ -6,6 +6,8 @@
   </a>
   <a href="https://vk.com/rustamefimov">
     <img src="https://img.shields.io/badge/vkontakte-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="Vkontakte Badge"/>
+  <a href="https://onlyfans/rustamuwu">
+    <img src="https://img.shields.io/badge/onlyfans-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Vkontakte Badge"/>
 </div>
   
 <img src="https://komarev.com/ghpvc/?username=rus07tam&style=flat-square&color=green" alt="Profiel views"/>
