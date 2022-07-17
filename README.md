@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="your-vk-URL">
-    <img src="https://img.shields.io/badge/vkontakte-red?style=for-the-badge&logo=vkonatkte&logoColor=white" alt="Vkontakte Badge"/>
+    <img src="https://img.shields.io/badge/vkontakte-red?style=for-the-badge&logo=vkontakte&logoColor=white" alt="Vkontakte Badge"/>
   </a>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/OnlyFans-blue?style=for-the-badge&logo=onlyfans&logoColor=white" alt="OnlyFans Badge"/>
