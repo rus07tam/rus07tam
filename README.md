@@ -1,10 +1,10 @@
 <div id="header" align="center">
   <img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/cf9c914d04e017ab821bab2ee0bb87cb.gif" width="100"/>
   <div id="badges">
-  <a href="https://t.me/@rus07tam">
+  <a href="https://t.me/rus07tam">
     <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="your-vk-URL">
+  <a href="https://vk.com/rustamefimov">
     <img src="https://img.shields.io/badge/vkontakte-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="Vkontakte Badge"/>
   </a>
   <a href="https://onlyfans.com/rustamuwu">
