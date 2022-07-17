@@ -38,4 +38,4 @@
 </div>
 
 ### :fire: Моя статистика :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-@rus07tam&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rus07tam&theme=onedark&hide_border=true&locale=ru)](https://git.io/streak-stats)
