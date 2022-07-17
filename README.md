@@ -6,10 +6,6 @@
   </a>
   <a href="https://vk.com/rustamefimov">
     <img src="https://img.shields.io/badge/vkontakte-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="Vkontakte Badge"/>
-  </a>
-  <a href="https://onlyfans.com/rustamuwu">
-    <img src="https://img.shields.io/badge/OnlyFans-55AAFF?style=for-the-badge&logo=onlyfans&logoColor=white" alt="OnlyFans Badge"/>
-  </a>
 </div>
   
 <img src="https://komarev.com/ghpvc/?username=rus07tam&style=flat-square&color=green" alt="Profiel views"/>
@@ -22,3 +18,12 @@
 
 ### Обо мне:
 Я Питон разработчик из России :ru: .
+
+- :telescope: Я работаю инженером-программистом и участвую в создании внешнего и внутреннего интерфейса для создания веб-приложений.
+- :seedling: Изучение написания технического контента.
+- :zap: В свободное время работаю над PyMessenger.
+- :mailbox:Как со мной связаться: rustame07042008@gmail.com
+
+---
+
+### :hammer_and_wrench: Языки и инструменты :
