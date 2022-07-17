@@ -41,4 +41,4 @@
 
 ### :fire: Моя статистика :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rus07tam&theme=onedark&hide_border=true&locale=ru)](https://git.io/streak-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=rus07tam&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rus07tam&theme=onedark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
