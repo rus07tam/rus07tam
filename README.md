@@ -36,3 +36,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VisualCode" alt="VisualCode" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows 10" alt="Windows 10" width="40" height="40"/>
 </div>
+
+### :fire: Моя статистика :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-rus07tam&theme=dark&background=000000)](https://git.io/streak-stats)
