@@ -11,5 +11,5 @@
     <img src="https://img.shields.io/badge/OnlyFans-55AAFF?style=for-the-badge&logo=onlyfans&logoColor=white" alt="OnlyFans Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=rus07tam&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=rus07tam&style=flat-square&color=green" alt="Profiel views"/>
 </div>
