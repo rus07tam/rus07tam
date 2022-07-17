@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/vkontakte-red?style=for-the-badge&logo=vk&logoColor=white" alt="Vkontakte Badge"/>
   </a>
   <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/OnlyFans-blue?style=for-the-badge&logo=onlyfans&logoColor=white" alt="OnlyFans Badge"/>
+    <img src="https://img.shields.io/badge/OnlyFans-55AAFF?style=for-the-badge&logo=onlyfans&logoColor=white" alt="OnlyFans Badge"/>
   </a>
 </div>
 </div>
