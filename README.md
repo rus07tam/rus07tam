@@ -7,7 +7,7 @@
   <a href="your-vk-URL">
     <img src="https://img.shields.io/badge/vkontakte-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="Vkontakte Badge"/>
   </a>
-  <a href="onlyfans.com/@rustamuwu">
+  <a href="https://onlyfans.com/@rustamuwu">
     <img src="https://img.shields.io/badge/OnlyFans-55AAFF?style=for-the-badge&logo=onlyfans&logoColor=white" alt="OnlyFans Badge"/>
   </a>
 </div>
