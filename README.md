@@ -58,7 +58,6 @@
         <img src="https://camo.githubusercontent.com/4362d71e08b5550747df26fc056b4099636575ad191e03c84ef203cb679cb1a4/68747470733a2f2f692e696d6775722e636f6d2f4b5878306343782e676966"
             align="left" width="373.5px" height="208.5px">
     </div>
-    <p align="center">I understand Russian, Ukrainian and English</p>
     <p align="center">
         <img alt="FastAPI"
             src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
@@ -74,6 +73,7 @@
             src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
         <img alt="SQLite"
             src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
+    <p align="center">And more</p>
     </p>
 </div>
 <br>
