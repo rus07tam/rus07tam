@@ -34,7 +34,7 @@
         <img src="https://i.pinimg.com/originals/fa/95/20/fa9520b63409576fe14a332a5914df99.gif" align="right"
             width="373.5px" height="208.5px">
     </div>
-    <p align="center">My main computer is on Windows,<br>laptop is on Manjaro, and phone is on Pixel OS.</p>
+    <p align="center">My main computer is on Windows,<br> and NixOS, and my phone is on LineageOS A14.</p>
     <p align="center">
         <img alt="Android"
             src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
